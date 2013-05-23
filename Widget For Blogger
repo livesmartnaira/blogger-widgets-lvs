@@ -1,0 +1,35 @@
+Purple-Cloud-Label
+==================
+
+Purple Cloud Label
+/*-----Custom Labels widget by www.livesmartnaira.com----*/
+
+#Label1 a{
+outline:1px dotted #FEB380;border: 1px rgba(0,0,0,0.2) solid;padding: 6px 8px 6px 14px;text-decoration:none;
+color:black;white-space: nowrap;
+font-family: arial,serif;text-transform:capitalize;
+font-size: 12px;font-weight: bold;
+position: relative !important;background: #aa00ff;
+-moz-opacity:0.75;
+-khtml-opacity:0.75;opacity:0.75;
+filter:alpha(opacity:75%);
+float:left;padding: 4px 3px;
+margin: 0 5px 5px 0;
+border-radius:4px 4px; -moz-border-radius:8px 4px 4px 4px; -khtml-border-radius:4px 4px 4px 4px; -webkit-border-radius:4px 4px 4px 4px; border-radius:4px 4px 4px 4px;
+}
+#Label1 a:hover {
+-moz-opacity:1;
+-khtml-opacity:1;
+opacity:1;
+background:#A55A27;color:white;
+-webkit-transition:all ease-in-out .5s;
+-moz-transition:all ease-in-out .5s;
+-o-transition:all ease-in-out .5s;
+transition:all ease-in-out .5s;
+}
+#Label1 a:active {
+background:#B24700;color:#80FFFE;
+-webkit-transition:all linear .5s;
+-moz-transition:all linear .5s;
+-o-transition:all linear .5s;transition:all linear .5s;
+}
